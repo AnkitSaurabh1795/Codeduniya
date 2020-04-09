@@ -1,4 +1,4 @@
-package com.splitwise.model.util;
+package model.Splitwise.util;
 
 public class Util {
 	
