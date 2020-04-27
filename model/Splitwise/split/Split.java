@@ -1,6 +1,6 @@
-package com.splitwise.model.split;
+package model.splitwise.split;
 
-import com.splitwise.model.User;
+import model.splitwise.User;
 
 public abstract class Split {
 	
