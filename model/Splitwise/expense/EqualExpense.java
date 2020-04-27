@@ -1,10 +1,10 @@
-package com.splitwise.model.expense;
+package model.splitwise.expense;
 
 import java.util.Date;
 import java.util.List;
 
-import com.splitwise.model.User;
-import com.splitwise.model.split.Split;
+import model.splitwise.expense;
+import model.splitwise.split.Split;
 
 public class EqualExpense extends Expense {
 
