@@ -3,9 +3,8 @@ package model.splitwise.expense;
 import java.util.Date;
 import java.util.List;
 
-import com.splitwise.User;
-import com.splitwise
-.split.Split;
+import model.splitwise.User;
+import model.splitwise.split.Split;
 
 public abstract class Expense {
 	
